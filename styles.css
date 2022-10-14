@@ -1,0 +1,53 @@
+ img{
+    width: 400px;
+} 
+.fliud-container{
+    padding: 3% 15%;
+}
+h1{
+    font-size:300%;
+    line-height: 4rem;
+    font-family:"Montserrat"sans-serif;
+    padding: 0% 0 7%;
+}
+
+.features-items{
+    width: 97px;
+   
+}
+.nav-image{
+    width: 20px;
+}
+.nav-item{
+    padding:0 10px ;
+}
+.nav-img{
+margin-right: 15%;
+}
+h5{
+    color: #FF7E1B;
+    padding-top: 5%;
+}
+
+.button-2{
+    color: #FF7E1B;
+}
+ .button-item{
+ background-color: #FF7E1B ;
+ color: #fff; 
+ padding: 3% 10% 1%;
+} 
+
+.features-item{
+    width: 97px;
+    opacity: 0.3;
+    color: #fff;
+}
+.features{
+    padding: 10% 10% 20%;
+}
+.navbar{
+    margin-left: 10%;
+  padding-bottom: 4.5rem;
+}
+
